@@ -1,5 +1,7 @@
 # 🔍 Minecraft Server Finder & Browser
 
+<img width="1917" height="1038" alt="image" src="https://github.com/user-attachments/assets/ba8be0b6-37bc-498d-8ca0-b11ca554e060" />
+
 Aplikacja okienkowa **GUI napisana w Pythonie**, służąca do skanowania zakresów adresów IP oraz wyszukiwania aktywnych serwerów **Minecraft Java Edition**.
 
 Program umożliwia szybkie wykrywanie dostępnych usług Minecraft, a następnie szczegółową weryfikację znalezionych serwerów za pomocą biblioteki `mcstatus`.
